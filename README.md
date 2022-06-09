@@ -1,0 +1,2 @@
+# Excel-Election-Results-System
+This is an election result relay tool that you can deploy to record and relay the results of the general election at the polling station in August. All this is in real-time. It has a practical vote entry Google form and a dashboard-style results sheet. for candidates that want to make sure that votes are counted/tallied correctly, their agents stay with the ballot box as the votes are counted. They then relay the results parallel to the IEBC results where their candidate and supporters can view them in real-time via a web interface.
